@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerShot
+  - EnemyShot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Friendlies
+  - Enemies
+  - FriendlyShot
+  - EnemyShot
+  - Powerup
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EnemyShot
+    uniqueID: 2850935165
+    locked: 0
+  - name: Enemy
+    uniqueID: 1970353037
+    locked: 0
+  - name: PlayerShot
+    uniqueID: 1390491101
+    locked: 0
+  - name: Player
+    uniqueID: 1446564439
+    locked: 0
+  - name: Explosion
+    uniqueID: 2340804349
+    locked: 0
